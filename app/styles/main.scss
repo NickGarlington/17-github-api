@@ -3,3 +3,8 @@
 @import "base";
 @import "layout";
 @import "modules";
+
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}

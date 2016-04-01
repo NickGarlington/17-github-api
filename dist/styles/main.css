@@ -1,0 +1,113 @@
+body {
+  margin: 0; }
+
+header {
+  width: 980px;
+  height: 50px;
+  margin: 0 auto; }
+
+.column1 {
+  width: 300px;
+  height: 800px;
+  margin-left: 150px;
+  float: left; }
+
+.column2 {
+  width: 680px;
+  height: 800px;
+  float: left; }
+
+#form1 {
+  float: left; }
+
+.pull {
+  float: left;
+  margin-left: 20px; }
+
+.issues {
+  float: left;
+  margin-left: 20px; }
+
+.gist {
+  float: left;
+  margin-left: 20px; }
+
+input[type="text"] {
+  width: 200px; }
+
+img {
+  width: 250px;
+  height: 250px; }
+
+.contributions {
+  float: left; }
+
+.repositories {
+  float: left;
+  margin-left: 20px; }
+
+.public {
+  float: left;
+  margin-left: 20px; }
+
+form {
+  margin-top: 20px; }
+
+body {
+  margin: 0; }
+
+header {
+  width: 980px;
+  height: 50px;
+  margin: 0 auto; }
+
+.column1 {
+  width: 300px;
+  height: 800px;
+  margin-left: 150px;
+  float: left; }
+
+.column2 {
+  width: 680px;
+  height: 800px;
+  float: left; }
+
+#form1 {
+  float: left; }
+
+.pull {
+  float: left;
+  margin-left: 20px; }
+
+.issues {
+  float: left;
+  margin-left: 20px; }
+
+.gist {
+  float: left;
+  margin-left: 20px; }
+
+input[type="text"] {
+  width: 200px; }
+
+img {
+  width: 250px;
+  height: 250px; }
+
+.contributions {
+  float: left; }
+
+.repositories {
+  float: left;
+  margin-left: 20px; }
+
+.public {
+  float: left;
+  margin-left: 20px; }
+
+form {
+  margin-top: 20px; }
+
+.clearfix {
+  overflow: auto;
+  zoom: 1; }
