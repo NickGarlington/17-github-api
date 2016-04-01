@@ -29,16 +29,19 @@ float: left;
 .pull {
   float: left;
   margin-left: 20px;
+  margin-top: 20px;
 }
 
 .issues {
   float: left;
   margin-left: 20px;
+  margin-top: 20px;
 }
 
 .gist {
   float: left;
   margin-left: 20px;
+  margin-top: 20px;
 }
 
 input[type="text"] {
@@ -50,12 +53,16 @@ img {
   height: 250px;
 }
 
-.author {
-
+.repo {
+  padding: 30px;
+  font-size: 2rem;
+  border-bottom: 1px solid #D0D0D0 ;
 }
 
-.info {
 
+
+.info {
+float: right;
 }
 
 .contributions {
@@ -74,4 +81,66 @@ img {
 
 form {
   margin-top: 20px;
+  width: 300px;
+  margin-right: 0;
+  display: inline-block;
+}
+
+.fa-code-fork {
+  margin-left: 10px;
+}
+
+.fa-star {
+  margin-left: 10px;
+}
+
+.fa {
+  margin-right: 10px;
+}
+
+#email {
+  margin-top: 20px;
+  display: block;
+}
+
+#name {
+  margin-bottom: 0;
+}
+
+#username {
+  margin-top: 0;
+  border-bottom: 1px solid #D0D0D0 ;
+}
+
+.float-right {
+  width: 300px;
+  height: 40px;
+  float: right;
+}
+
+.all {
+  float: left;
+  margin-top: 20px;
+  margin-left: 80px;
+}
+
+.sources {
+  float: left;
+  margin-left: 10px;
+  margin-top: 20px;
+  color: blue;
+}
+
+.forc {
+  float: left;
+  margin-left: 10px;
+  margin-top: 20px;
+  color: blue;
+}
+
+.mirrors {
+  float: left;
+  margin-left: 10px;
+  margin-top: 20px;
+  color: blue;
 }
