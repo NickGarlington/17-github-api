@@ -4,7 +4,8 @@ body {
 header {
   width: 980px;
   height: 50px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  background-color: #F5F5F5; }
 
 .column1 {
   width: 300px;
@@ -18,22 +19,23 @@ header {
   float: left; }
 
 #form1 {
-  float: left; }
+  float: left;
+  margin-top: 15px;
+  margin-left: 12px; }
 
 .pull {
   float: left;
-  margin-left: 20px;
-  margin-top: 20px; }
+  margin-top: 15px; }
 
 .issues {
   float: left;
   margin-left: 20px;
-  margin-top: 20px; }
+  margin-top: 15px; }
 
 .gist {
   float: left;
   margin-left: 20px;
-  margin-top: 20px; }
+  margin-top: 15px; }
 
 input[type="text"] {
   width: 200px; }
@@ -114,6 +116,13 @@ form {
   margin-left: 10px;
   margin-top: 20px;
   color: blue; }
+
+header img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  float: left;
+  margin-top: 4px; }
 
 body {
   margin: 0; }
@@ -121,7 +130,8 @@ body {
 header {
   width: 980px;
   height: 50px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  background-color: #F5F5F5; }
 
 .column1 {
   width: 300px;
@@ -135,22 +145,23 @@ header {
   float: left; }
 
 #form1 {
-  float: left; }
+  float: left;
+  margin-top: 15px;
+  margin-left: 12px; }
 
 .pull {
   float: left;
-  margin-left: 20px;
-  margin-top: 20px; }
+  margin-top: 15px; }
 
 .issues {
   float: left;
   margin-left: 20px;
-  margin-top: 20px; }
+  margin-top: 15px; }
 
 .gist {
   float: left;
   margin-left: 20px;
-  margin-top: 20px; }
+  margin-top: 15px; }
 
 input[type="text"] {
   width: 200px; }
@@ -231,6 +242,13 @@ form {
   margin-left: 10px;
   margin-top: 20px;
   color: blue; }
+
+header img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  float: left;
+  margin-top: 4px; }
 
 .clearfix {
   overflow: auto;
